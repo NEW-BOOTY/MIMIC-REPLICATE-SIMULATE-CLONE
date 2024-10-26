@@ -6,7 +6,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.Random;
 
-public class MimicAndReplicates {
+public class TensorFloworAxios {
     public static void main(String[] args) {
         String command = "simulateTensorFlowModel"; // Command to simulate TensorFlow.js model
         try {
